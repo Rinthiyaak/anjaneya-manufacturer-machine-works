@@ -1,0 +1,37 @@
+https://machineworksmfg.com/
+https://sansera.in/about-us
+
+#F1F1F3
+#A03232
+ rgb(3, 31, 56)
+#8E0B0B
+
+https://www.fortunemachinesandtools.com/
+
+(150deg,#FF6501,#000000);
+    -webkit-text-fill-color: transparent;
+https://www.marposs.com/eng/company-profile/you-and-us?_gl=1*1sbamv6*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw9JLHBhC-ARIsAK4PhcqjBH6e_VzCunqkl6u8UG90ffR0DW7g8llr1Yq_i13gWJuOL8kGtswaAr9BEALw_wcB&gbraid=0AAAAAoc640QzJcQ0MQJt1BZqHxxXNbIuh
+
+https://robosapiensautomation.com/?gad_source=1&gad_campaignid=7859227432&gbraid=0AAAAACm6JoZ_lQ_Aqi9a4WnRjmICRv-tH&gclid=EAIaIQobChMI5I-IovzNkAMV9-wWBR2cGhFIEAMYAiAAEgJBNfD_BwE
+ 
+
+
+
+  <script>
+        function myFunction() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        window.onclick = function (event) {
+            if (!event.target.matches('.dropbtn')) {
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                var i;
+                for (i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+    </script>
